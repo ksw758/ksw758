@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kswwebsite.vercel.app" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://kswwebsitenext.vercel.app" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="mailto:ksw75811@gmail.com">✉️ ksw75811@gmail.com</a>
 </p>
 
